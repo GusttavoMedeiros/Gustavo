@@ -1,53 +1,57 @@
 # Gustavo
 
-Empreendedor no setor agro, com atuação em alimentação animal, transporte de grãos, vendas e desenvolvimento de soluções digitais para negócios.
+Entrepreneur in the agribusiness sector, working with animal feed, grain transportation, commercial operations, and digital business solutions.
 
-Atualmente, estou explorando formas de unir **tecnologia, automação, UX/UI e estratégia comercial** para criar sistemas, sites e ferramentas que ajudem empresas a vender melhor, organizar processos e melhorar a experiência dos clientes.
+I am focused on combining **technology, automation, UX/UI, and business strategy** to build practical tools that improve sales, operations, customer service, and internal processes.
 
-## Sobre mim
+## About Me
 
-- Dono de empresa no ramo de alimentação animal
-- Atuação também no transporte de grãos
-- Interesse em tecnologia aplicada ao agro
-- Foco em sites, sistemas, automações e melhoria de processos
-- Aprendendo e desenvolvendo projetos com apoio de inteligência artificial
+* Business owner in the animal feed and agribusiness sector
+* Experience with grain transportation and commercial operations
+* Interested in technology applied to real-world businesses
+* Focused on digital solutions, websites, automation, and process optimization
+* Continuously learning and building projects with the support of artificial intelligence
 
-## Áreas de interesse
+## Areas of Interest
 
-- Desenvolvimento de sites
-- UX/UI Design
-- Sistemas comerciais
-- Automações para empresas
-- Gestão de produtos e catálogos
-- Tecnologia para o agronegócio
-- Finanças e estratégia empresarial
+* Web development
+* UX/UI Design
+* Business automation
+* Digital catalogs
+* Sales and customer service systems
+* Process optimization
+* Agribusiness technology
+* Finance and business management
 
-## Projetos em desenvolvimento
+## Current Focus
 
-Atualmente trabalho em ideias e projetos voltados para:
+I am currently working on digital solutions designed to help businesses become more organized, efficient, and competitive, especially in the agribusiness, commercial, and logistics sectors.
 
-- Catálogo digital de produtos agropecuários
-- Sites comerciais com foco em conversão
-- Sistemas para organização de vendas e atendimento
-- Ferramentas para melhorar processos internos
-- Soluções digitais para empresas do setor agro
+Some of my current interests include:
 
-## Tecnologias e ferramentas
+* Professional websites focused on conversion
+* Digital product catalogs
+* Internal management tools
+* Customer service automation
+* Sales process improvement
+* Technology solutions for agribusiness operations
 
-Estou estudando e utilizando ferramentas como:
+## Technologies and Tools
 
-- HTML
-- CSS
-- JavaScript
-- GitHub
-- Inteligência Artificial
-- Ferramentas de design e prototipação
-- Plataformas de criação de sites e sistemas
+I am currently studying and working with:
 
-## Objetivo
+* HTML
+* CSS
+* JavaScript
+* GitHub
+* Artificial Intelligence
+* UX/UI tools
+* Website and system-building platforms
 
-Meu objetivo é usar a tecnologia para criar soluções simples, profissionais e eficientes para empresas reais, principalmente no setor agro, comercial e logístico.
+## Purpose
+
+My goal is to use technology to create simple, efficient, and scalable solutions for real businesses.
 
 ---
 
-**Agro, tecnologia e negócios.**
+**Agribusiness • Technology • Business**
